@@ -1,0 +1,38 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/robotdreams/game_mechanics/using_game_mechanic/Content/ThirdPerson/Blueprints/BP_CoinPicker.uasset",
+				"D:/robotdreams/game_mechanics/using_game_mechanic/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"D:/robotdreams/game_mechanics/using_game_mechanic/Content/ThirdPerson/Maps/BasicLevel.umap",
+				"D:/robotdreams/game_mechanics/using_game_mechanic/Content/OBJ/3D_Coin_Gold.uasset",
+				"D:/robotdreams/game_mechanics/using_game_mechanic/Content/OBJ/coin.uasset",
+				"D:/robotdreams/game_mechanics/using_game_mechanic/Content/OBJ/3D_Coin_Gold_Cylinder311_PhysicsAsset.uasset",
+				"D:/robotdreams/game_mechanics/using_game_mechanic/Content/OBJ/3D_Coin_Gold_Cylinder311_Skeleton.uasset",
+				"D:/robotdreams/game_mechanics/using_game_mechanic/Content/OBJ/coin_PhysicsAsset.uasset",
+				"D:/robotdreams/game_mechanics/using_game_mechanic/Content/OBJ/Cylinder311Mat.uasset",
+				"D:/robotdreams/game_mechanics/using_game_mechanic/Content/OBJ/Material_001.uasset",
+				"D:/robotdreams/game_mechanics/using_game_mechanic/Content/Blueprints/BP_Coin.uasset",
+				"D:/robotdreams/game_mechanics/using_game_mechanic/Content/Blueprints/BS_PickupCoin.uasset",
+				"D:/robotdreams/game_mechanics/using_game_mechanic/Content/Blueprints/BS_CountCoin.uasset",
+				"D:/robotdreams/game_mechanics/using_game_mechanic/Content/Blueprints/AC_Coins.uasset",
+				"D:/robotdreams/game_mechanics/using_game_mechanic/Content/Blueprints/WBP_Screen.uasset",
+				"D:/robotdreams/game_mechanics/using_game_mechanic/Content/ThirdPerson/BP_CoinModeController.uasset",
+				"D:/robotdreams/game_mechanics/using_game_mechanic/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/robotdreams/game_mechanics/using_game_mechanic/Content/Blueprints/BS_Empty.uasset",
+				"D:/robotdreams/game_mechanics/using_game_mechanic/Content/Blueprints/WBP_Loose.uasset",
+				"D:/robotdreams/game_mechanics/using_game_mechanic/Content/Blueprints/WBP_Win.uasset",
+				"D:/robotdreams/game_mechanics/using_game_mechanic/Content/Blueprints/BP_Enemy.uasset",
+				"D:/robotdreams/game_mechanics/using_game_mechanic/Content/Blueprints/AC_Helath.uasset",
+				"D:/robotdreams/game_mechanics/using_game_mechanic/Content/Blueprints/AC_Health.uasset",
+				"D:/robotdreams/game_mechanics/using_game_mechanic/Content/Blueprints/BS_end_game.uasset",
+				"D:/robotdreams/game_mechanics/using_game_mechanic/Content/Blueprints/BS_Health.uasset",
+				"D:/robotdreams/game_mechanics/using_game_mechanic/Content/Blueprints/BS_Time.uasset",
+				"D:/robotdreams/game_mechanics/using_game_mechanic/Content/Blueprints/WBP_Dead.uasset"
+			]
+		}
+	]
+}
