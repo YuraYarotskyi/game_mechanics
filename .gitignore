@@ -46,15 +46,15 @@ SourceArt/**/*.png
 SourceArt/**/*.tga
 
 # Binary Files
-Binaries/*
-Plugins/*/Binaries/*
+using_game_mechanic/Binaries/*
+using_game_mechanic/Plugins/*/Binaries/*
 
 # Builds
 Build/*
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
-Build/*/**
+using_game_mechanic/Build/*/**
 !Build/*/PakBlacklist*.txt
 
 # Don't ignore icon files in Build
@@ -67,8 +67,8 @@ Build/*/**
 Saved/*
 
 # Compiled source files for the engine to use
-Intermediate/*
-Plugins/*/Intermediate/*
+using_game_mechanic/Intermediate/*
+using_game_mechanic/Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
-DerivedDataCache/*
+using_game_mechanic/DerivedDataCache/*
